@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
             public void onTextChanged(CharSequence s, int start, int before, int count) {
 
             }
-            //quando a pessoa termina de digitar/apagar esse método é chamando.
+            
             @Override
             public void afterTextChanged(Editable s) {
                 busca(s.toString());
@@ -67,8 +67,8 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         }
-
-        itemAdapter.filtraLista(listaFiltrada); //atualiza adapter com a lista filtrada
+        //atualiza adapter com a lista filtrada
+        itemAdapter.filtraLista(listaFiltrada); 
 
     }
 
