@@ -9,8 +9,8 @@
 ## 4. [Android] Search on a list
 - [Questão 4](https://github.com/milenavms/Projeto/tree/master/buscalista)
 ## 5. Remove duplicates on email thread
-- [Questão 5](https://github.com/milenavms/Projeto/blob/master/05-LinkedListIntersection/src/Principal/Principal.java)
+- [Questão 5]()
 ## 6. [Android] Email processor service
-- [Email Service]() e [Email Teste]()
+- [Email Service](https://github.com/milenavms/Projeto/tree/master/emailservice) e [Email Teste](https://github.com/milenavms/Projeto/tree/master/emailteste)
 ## 7. Linked List Intersection
-- [Questão 7]()
+- [Questão 7](https://github.com/milenavms/Projeto/blob/master/07-LinkedListIntersection/src/Principal/Principal.java)
